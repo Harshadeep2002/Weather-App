@@ -1,0 +1,23 @@
+body{
+    height : 100%;
+    font-family: Arial, sans-serif;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/012/066/505/original/sunny-and-rainy-day-weather-forecast-icon-meteorological-sign-3d-render-png.png);
+    background-color: aquamarine;
+    text-align: center;
+    margin: 5px;
+}
+
+#weather-container {
+    max-width: 400px;
+    margin : 0 auto;
+    text-align: center;
+    background-color: lightblue;
+    padding: 20px;
+    border: 1px solid lightskyblue;
+    border-radius: 8px;
+}
+
+#weather-icon {
+    max-width: 200px;
+    margin: auto;
+}
